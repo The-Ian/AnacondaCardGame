@@ -1,0 +1,40 @@
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.PlayerList.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.GameScreen.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe.config
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.pdb
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Form1.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.GameScreen.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.PlayerList.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.exe
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.pdb
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Hand_Rankings.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Rules.resources
+C:\Users\Cyberadmin\Desktop\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Stats.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe.config
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.exe
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\bin\Debug\MakingPlayerDialogBox.pdb
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csprojResolveAssemblyReference.cache
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Form1.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.GameScreen.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Hand_Rankings.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.PlayerList.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Properties.Resources.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Rules.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.Stats.resources
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csproj.GenerateResource.Cache
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.csproj.CoreCompileInputs.cache
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.exe
+D:\MakingPlayerDialogBox\MakingPlayerDialogBox\obj\Debug\MakingPlayerDialogBox.pdb
